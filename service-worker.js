@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.3cb48e74b3cab9b702ac93b2f78602da.js"
+  "/precache-manifest.ecb0e909f2466c939ef5ad85228d82b3.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "eye-care-admin"});
